@@ -28,7 +28,7 @@ const BankCard = ({
             </div>
             <p className="text-14 font-semibold tracking-[1.1px] text-white">
               ●●●● ●●●● ●●●● 0329
-              <span className="text-16">{account.mask}</span>
+              <span className="text-16">{account?.mask}</span>
             </p>
           </article>
         </div>
@@ -45,7 +45,7 @@ const BankCard = ({
         </div>
 
         <Image
-          src="/icons/lines.svg"
+          src="/icons/lines.png"
           width={316}
           height={190}
           alt="lines"
