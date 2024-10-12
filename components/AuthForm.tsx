@@ -38,7 +38,7 @@ const AuthForm = ({ type }: { type: string }) => {
     setIsLoading(true);
 
     try {
-      //   Sign up with Appwrite & create plain link token
+      // Sign up with Appwrite & create plaid token
 
       if (type === "sign-up") {
         const userData = {
