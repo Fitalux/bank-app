@@ -12,7 +12,7 @@ const Transfer = async () => {
 
   if (!accounts) return;
 
-  const accountsData = accounts?.data;
+  const accountsData = accounts.data;
 
   return (
     <section className="payment-transfer">
