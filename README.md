@@ -1,4 +1,4 @@
-<img src="https://github.com/Fitalux/NewPortfolio/blob/main/src/assets/image/contact/next-bank.png" 
+<img src="https://github.com/Fitalux/NewPortfolio/blob/main/src/assets/image/contact/next-bank.png">
 
 <h1>💳Next.js Bank WEB APP🏧</h1>
 <span>
